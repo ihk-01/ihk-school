@@ -1,0 +1,28 @@
+	h1{
+		color: darkred;
+	}
+	h3{	font-family: cursive;
+	}
+	div{
+		background-color: skyblue;
+	}
+	form{
+		padding: 15px;
+		background-color: yellow;
+		font-style: italic;
+		border-style: double;
+		width: 200px;height:250px;
+	}
+	input[type=button] {
+		color: black;
+		background-color: rgb(0,200,0);
+		padding: 10px;
+	}
+	input[type=button]:hover{
+		border: solid;
+		background-color: rgb(0,330,0);
+	}
+	#excited{
+		color: mediumpurple;
+		text-decoration: underline;
+	}
